@@ -1,0 +1,43 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+h1{
+color:#333;
+}
+
+.form-box{
+margin:20px;
+}
+
+input{
+padding:8px;
+margin:5px;
+}
+
+button{
+padding:8px 15px;
+background:#4CAF50;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+table{
+width:60%;
+margin:auto;
+background:white;
+border-collapse:collapse;
+}
+
+th,td{
+border:1px solid #ddd;
+padding:10px;
+}
+
+th{
+background:#4CAF50;
+color:white;
+}
